@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "MovesetBuilder",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "wconr",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MovesetBuilder",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
